@@ -1,0 +1,6 @@
+﻿# See the documentation on the wiki to learn how to edit this file.
+#-------------------------------
+[HEATSINK]
+Name = Heat Sink
+Description = Draws in all Fire-type moves to the Pokémon. Instead of being hit by Fire-type moves, it boosts its Defense.
+#-------------------------------

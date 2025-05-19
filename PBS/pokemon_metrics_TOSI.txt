@@ -1,0 +1,5 @@
+[CUBBURN]
+BackSprite = 0,58
+FrontSprite = 1,36
+ShadowX = 0
+ShadowSize = 1
