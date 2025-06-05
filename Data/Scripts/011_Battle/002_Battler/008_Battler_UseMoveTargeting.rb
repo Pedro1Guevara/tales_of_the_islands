@@ -144,7 +144,7 @@ class Battle::Battler
     # Storm Drain
     targets = pbChangeTargetByAbility(:STORMDRAIN, :WATER, move, user, targets, priority, nearOnly)
     # Heat Sink
-    targets = pbChangeTargetByAbility(:HEATSINK, :FIRE, move, user, targets, priority, nearOnly)
+    # targets = pbChangeTargetByAbility(:HEATSINK, :FIRE, move, user, targets, priority, nearOnly)
     return targets
   end
 
